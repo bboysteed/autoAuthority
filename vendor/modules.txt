@@ -1,0 +1,20 @@
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/jinzhu/configor v1.2.1
+## explicit
+github.com/jinzhu/configor
+# github.com/robertkrimen/otto v0.0.0-20200922221731-ef014fd054ac
+## explicit
+github.com/robertkrimen/otto
+github.com/robertkrimen/otto/ast
+github.com/robertkrimen/otto/dbg
+github.com/robertkrimen/otto/file
+github.com/robertkrimen/otto/parser
+github.com/robertkrimen/otto/registry
+github.com/robertkrimen/otto/token
+# gopkg.in/sourcemap.v1 v1.0.5
+## explicit
+gopkg.in/sourcemap.v1
+gopkg.in/sourcemap.v1/base64vlq
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
